@@ -1,7 +1,7 @@
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Download, FileText, Code, Book, Video, Star, Eye } from "lucide-react";
+import { Download, FileText, Code, Book, Video, Star, Eye, Link } from "lucide-react";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 
@@ -220,9 +220,13 @@ const Recursos = () => {
               Constantemente agregamos nuevos materiales. Síguenos en nuestras redes 
               sociales para estar al día con las últimas actualizaciones.
             </p>
-            <Button variant="hero" size="lg">
-              Contactar al Profesor
-            </Button>
+
+            <a href="/contacto" tabIndex={-1}>
+              <Button variant="hero" size="lg">
+                Contactar al Profesor
+              </Button>
+            </a>
+            
           </div>
         </div>
       </section>
