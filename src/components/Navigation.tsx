@@ -24,7 +24,7 @@ const Navigation = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2 text-primary font-bold text-xl">
               <Code className="h-8 w-8" />
-              <span>Rafael's Coder Corner</span>
+              <span>Academy's Coder Corner</span>
             </Link>
           </div>
 

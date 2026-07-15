@@ -46,8 +46,8 @@ const Contacto = () => {
     {
       icon: Mail,
       title: "Email",
-      content: "rafael@codercorner.com",
-      href: "mailto:rafael@codercorner.com"
+      content: "Academy@codercorner.com",
+      href: "mailto:Academy@codercorner.com"
     },
     {
       icon: Phone,
@@ -67,19 +67,19 @@ const Contacto = () => {
     {
       icon: Github,
       name: "GitHub",
-      href: "https://github.com/rafael-profesor",
+      href: "https://github.com/Academy-profesor",
       color: "hover:text-gray-800"
     },
     {
       icon: Linkedin,
       name: "LinkedIn",
-      href: "https://linkedin.com/in/rafael-profesor",
+      href: "https://linkedin.com/in/Academy-profesor",
       color: "hover:text-blue-600"
     },
     {
       icon: Twitter,
       name: "Twitter",
-      href: "https://twitter.com/rafael_profesor",
+      href: "https://twitter.com/Academy_profesor",
       color: "hover:text-blue-400"
     }
   ];

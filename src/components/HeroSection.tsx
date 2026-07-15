@@ -38,7 +38,7 @@ const HeroSection = () => {
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed">
-              Con el Profesor Rafael y sus más de 10 años de experiencia universitaria. 
+              Con el Profesor Academy y sus más de 10 años de experiencia universitaria. 
               Contenido claro, bien explicado y completamente gratuito.
             </p>
 

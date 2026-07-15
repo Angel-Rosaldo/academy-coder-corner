@@ -13,7 +13,7 @@ const Nosotros = () => {
       <section className="bg-hero-gradient text-primary-foreground py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 animate-fade-in">
-            Conoce al Profesor Rafael
+            Conoce al Profesor Academy
           </h1>
           <p className="text-xl md:text-2xl opacity-90 animate-slide-up">
             Docente universitario apasionado por enseñar programación de manera accesible y práctica
@@ -41,7 +41,7 @@ const Nosotros = () => {
                   efectivas para estudiantes de todos los niveles.
                 </p>
                 <p>
-                  La idea de crear Rafael's Coder Corner nació de la necesidad de hacer 
+                  La idea de crear Academy's Coder Corner nació de la necesidad de hacer 
                   este conocimiento accesible a una audiencia más amplia, especialmente 
                   a aquellos estudiantes autodidactas que buscan una base sólida en programación.
                 </p>
@@ -132,7 +132,7 @@ const Nosotros = () => {
               No se trata solo de memorizar sintaxis, sino de desarrollar 
               el pensamiento lógico y la capacidad de resolver problemas."
             </blockquote>
-            <cite className="text-primary font-semibold">- Profesor Rafael</cite>
+            <cite className="text-primary font-semibold">- Profesor Academy</cite>
           </div>
         </div>
       </section>

@@ -76,7 +76,7 @@ const Index = () => {
     {
       name: "María González",
       role: "Estudiante de Ingeniería",
-      comment: "Los cursos del profesor Rafael me ayudaron a entender conceptos que no lograba captar en clase. ¡Excelente metodología!",
+      comment: "Los cursos del profesor Academy me ayudaron a entender conceptos que no lograba captar en clase. ¡Excelente metodología!",
       rating: 5
     },
     {
@@ -103,7 +103,7 @@ const Index = () => {
       <section className="py-16 bg-muted/30">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold text-center text-foreground mb-12">
-            ¿Por qué elegir Rafael's Coder Corner?
+            ¿Por qué elegir Academy's Coder Corner?
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             {benefits.map((benefit, index) => (

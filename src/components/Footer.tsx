@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="md:col-span-2">
             <Link to="/" className="flex items-center space-x-2 text-primary font-bold text-xl mb-4">
               <Code className="h-8 w-8" />
-              <span>Rafael's Coder Corner</span>
+              <span>Academy's Coder Corner</span>
             </Link>
             <p className="text-muted-foreground mb-4 max-w-md">
               Una plataforma educativa dedicada a enseñar programación desde cero. 
@@ -62,14 +62,14 @@ const Footer = () => {
             <div className="space-y-2">
               <div className="flex items-center space-x-2 text-muted-foreground">
                 <Mail className="h-4 w-4" />
-                <span>rafael@codercorner.com</span>
+                <span>Academy@codercorner.com</span>
               </div>
             </div>
           </div>
         </div>
 
         <div className="border-t border-border mt-8 pt-8 text-center text-muted-foreground">
-          <p>&copy; 2024 Rafael's Coder Corner. Todos los derechos reservados.</p>
+          <p>&copy; 2024 Academy's Coder Corner. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
